@@ -1,0 +1,21 @@
+[submodule "SOURCE/q/QBC"]
+	url = https://github.com/donnaken15/NodeQBC
+	active = true
+[submodule "SOURCE/Helix"]
+	url = https://github.com/donnaken15/hmp3
+	active = true
+[submodule "SOURCE/DotNetZip"]
+	url = https://github.com/DinoChiesa/DotNetZip
+	active = true
+[submodule "SOURCE/QueenBee"]
+	url = https://github.com/donnaken15/Queen-Bee
+	active = true
+[submodule "SOURCE/q/mods"]
+	url = https://github.com/donnaken15/QBMods
+	active = true
+[submodule "SOURCE/mid2chart"]
+	url = https://github.com/donnaken15/mid2chart
+	active = true
+[submodule "SOURCE/dependencies/SharpZipLib"]
+	url = https://github.com/icsharpcode/SharpZipLib
+	active = true

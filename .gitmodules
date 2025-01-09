@@ -1,0 +1,49 @@
+[submodule "GH3Plus"]
+	path = SOURCE/GH3Plus
+	url = https://github.com/donnaken15/GH3-Plus
+[submodule "QBC"]
+	path = SOURCE/q/QBC
+	url = https://github.com/donnaken15/NodeQBC
+[submodule "deps/Helix"]
+	path = SOURCE/dependencies/Helix
+	url = https://github.com/donnaken15/hmp3
+[submodule "deps/DotNetZip"]
+	path = SOURCE/dependencies/DotNetZip
+	url = https://github.com/DinoChiesa/DotNetZip
+[submodule "QueenBee"]
+	path = SOURCE/dependencies/QueenBee
+	url = https://github.com/donnaken15/Queen-Bee
+	branch = main
+[submodule "mods"]
+	path = SOURCE/q/mods
+	url = https://github.com/donnaken15/QBMods
+[submodule "mid2chart"]
+	path = SOURCE/dependencies/mid2chart
+	url = https://github.com/donnaken15/mid2chart
+[submodule "deps/SharpZipLib"]
+	path = SOURCE/dependencies/SharpZipLib
+	url = https://github.com/icsharpcode/SharpZipLib
+[submodule "SOURCE/GH3Plus"]
+	path = SOURCE/GH3Plus
+	url = https://github.com/donnaken15/GH3-Plus
+[submodule "SOURCE/q/QBC"]
+	path = SOURCE/q/QBC
+	url = https://github.com/donnaken15/NodeQBC
+[submodule "SOURCE/dependencies/Helix"]
+	path = SOURCE/dependencies/Helix
+	url = https://github.com/donnaken15/hmp3
+[submodule "SOURCE/dependencies/DotNetZip"]
+	path = SOURCE/dependencies/DotNetZip
+	url = https://github.com/donnaken15/DotNetZip
+[submodule "SOURCE/dependencies/QueenBee"]
+	path = SOURCE/dependencies/QueenBee
+	url = https://github.com/donnaken15/Queen-Bee
+[submodule "SOURCE/dependencies/mid2chart"]
+	path = SOURCE/dependencies/mid2chart
+	url = https://github.com/donnaken15/mid2chart
+[submodule "SOURCE/dependencies/SharpZipLib"]
+	path = SOURCE/dependencies/SharpZipLib
+	url = https://github.com/donnaken15/SharpZipLib
+[submodule "SOURCE/q/mods"]
+	path = SOURCE/q/mods
+	url = https://github.com/donnaken15/QBMods

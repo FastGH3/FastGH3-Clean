@@ -1,0 +1,9 @@
+
+
+# clean ignore
+/DATA
+/PLUGINS
+*.exe
+*.pdb
+LD.cs
+ucs2res.cs

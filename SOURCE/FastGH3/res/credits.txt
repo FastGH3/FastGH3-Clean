@@ -1,0 +1,36 @@
+ExileLord        - GH3+ and executable reverse engineering,
+                   open and tap notes,
+                   ChartEdit/Chart-to-PAK classes and conversion tools,
+donnaken15       - other QbScript hacking,
+                   mod creation and setup,
+                   game optimization,
+                   main program and automation,
+                   logger plugin, Discord RPC,
+                   solos, open sustains,
+                   overlapping starpower
+Zedek the P.D.   - Guitar Hero SDK (pak tools), NodeQBC (q compiler)
+raphaelgoulart   - mid2chart
+HATRED           - better No-CD/SecuROM fix/deobfs. than BATTERY
+Nanook           - QueenBee + Parser
+No1mann          \
+Invo             \
+szymmirr         \
+ScoreHero forums
+and many others  - Miscellaneous things / tools / help
+SoX  devs        - SoX, decoder
+RealNetworks     \
+Miak Merten      - Helix MP3 encoder
+media-autobuild-suite
+paint.net
+FileOptimizer
+Guitar Hero SDK
+upx              - Programs used
+adituv           - QbScript reverse engineering,
+                   (old) compiler/decompiler,
+                   vsync flame fix,
+                   built in QB decompiler
+GameZelda        - original modding and game data R.E.
+Activision       \
+RedOctane        \
+Neversoft        \
+Aspyr            - Original game, assets, copyright

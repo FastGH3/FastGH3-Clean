@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.bat	eol=crlf
+*.q	text
+# :/
+*.qb	binary
+*.xen	binary
+*.dbg.xen text
+*.dbg	text
+*.cs	eol=crlf
+*.Designer.cs linguist-detectable=false
